@@ -4,7 +4,7 @@
     "label": "Undergrad@NYUSH",
     "image": "",
     "email": "yx3038@nyu.edu",
-    "phone": "(912) 123-4567",
+    "phone": "(86) 15151521422",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A sophomore at NYU Shanghai. Doing research in CV & NLP.",
     "location": {
@@ -62,16 +62,14 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Computer Science",
+      "level": "Bachelor",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Computer Vision",
+        "Natural Language Processing",
+        "High Performance Computing",
+        "Version Control (Git)"
       ]
     }
   ],
@@ -102,19 +100,20 @@
     {
       "name": "Professor Li Guo",
       "icon": "fa-solid fa-laptop",
+      "url": "Associate Professor at NYU Shanghai. Interested in Computer Vision and Deep Learning.",
       "reference": ""
     },
     {
       "name": "Professor Shengjie Wang",
       "icon": "fa-solid fa-thumbtack",
       "url": "https://sheng-jie-wang.github.io/",
-      "reference": ""
+      "reference": "Assistant Professor at NYU Shanghai. Interested in Machine learning theories, Computer Vision, and AI4S."
     },
     {
       "name": "Professor Chen Zhao",
       "icon": "fa-solid fa-thumbtack",
       "url": "http://www.chenz.umiacs.io/",
-      "reference": ""
+      "reference": "Assistant Professor at NYU Shanghai. Interested in Natural Language Processing and AI4S."
     }
   ]
 }
