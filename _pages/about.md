@@ -29,5 +29,5 @@ latest_posts:
 
 Hi there, I'm Yufeng (Felix) Xu (许御风). I'm a junior at [NYU Shanghai](https://shanghai.nyu.edu/) majoring in Computer Science. Prior to that, I studied at [Suzhou High School of Jiangsu Province(江苏省苏州中学)](https://en.wikipedia.org/wiki/Suzhou_High_School_of_Jiangsu_Province) from 2016 to 2022.
 
-My research interest lies in **generative models, Retrieval Augmented Generation, and LM reasoning**. I was lucky to work with Prof. Keith Ross, Li Guo, Shengjie Wang, and Chen Zhao during my study at NYU Shanghai. If you want to contact me, feel free to reach out by my [email](mailto:yx3038@nyu.edu)!
+My research interest lies in **generative models, Retrieval Augmented Generation, and LM reasoning**. I was lucky to work with Prof. [Keith Ross](https://engineering.nyu.edu/faculty/keith-ross), [Li Guo](https://shanghai.nyu.edu/academics/faculty/directory/li-guo), [Shengjie Wang](https://sheng-jie-wang.github.io/), and [Chen Zhao](https://henryzhao5852.github.io/) during my study at NYU Shanghai. If you want to contact me, feel free to reach out by my [email](mailto:yx3038@nyu.edu)!
 
