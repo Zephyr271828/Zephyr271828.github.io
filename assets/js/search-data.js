@@ -446,6 +446,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/yufeng-felix-xu", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=VoDksKQAAAAJ", "_blank");
+        },
+      },{
         id: 'social-spotify',
         title: 'Spotify',
         section: 'Socials',
